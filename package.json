@@ -6,6 +6,9 @@
   "scripts": {
     "start": "electron ."
   },
+  "devDependencies": {
+    "electron": "^20.2.0"
+  },
   "author": "xz",
   "license": "ISC"
 }
